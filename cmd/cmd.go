@@ -5,6 +5,8 @@ import (
 	_ "github.com/ondrejsika/hello-world-cli/cmd/hello"
 	"github.com/ondrejsika/hello-world-cli/cmd/root"
 	_ "github.com/ondrejsika/hello-world-cli/cmd/say"
+	_ "github.com/ondrejsika/hello-world-cli/cmd/say/ahoj"
+	_ "github.com/ondrejsika/hello-world-cli/cmd/say/hello"
 	_ "github.com/ondrejsika/hello-world-cli/cmd/sum"
 	"github.com/spf13/cobra"
 )
