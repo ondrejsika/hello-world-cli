@@ -2,6 +2,7 @@ package cmd
 
 import (
 	_ "github.com/ondrejsika/hello-world-cli/cmd/ahoj"
+	_ "github.com/ondrejsika/hello-world-cli/cmd/gen_docs"
 	_ "github.com/ondrejsika/hello-world-cli/cmd/hello"
 	"github.com/ondrejsika/hello-world-cli/cmd/root"
 	_ "github.com/ondrejsika/hello-world-cli/cmd/say"
