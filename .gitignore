@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# Editer
+.vscode
+
+# App
+dist/**
+/hello-world-cli
+/hello-world-cli.exe
+cobra-docs
