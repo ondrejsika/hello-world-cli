@@ -52,7 +52,7 @@ checksum:
 
 brews:
   -
-    name: slu
+    name: hello-world-cli
     tap:
       owner: ondrejsikademo
       name: homebrew-tap
