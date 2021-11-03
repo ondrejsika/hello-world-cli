@@ -1,4 +1,4 @@
-package hello
+package ahoj
 
 import (
 	"fmt"
